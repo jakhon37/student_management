@@ -14,3 +14,6 @@ there are main 7 operations you can choose and take an action.
                        ' 7 -> Exit 
                        
 input data is stored in studentRecord.txt file.                        
+
+![alt text](https://github.com/jakhon37/student_management/img/student.png?raw=true)
+#
