@@ -17,5 +17,3 @@ input data is stored in studentRecord.txt file.
 
 ![alt tag](https://github.com/jakhon37/student_management/blob/master/img/student.png)
 
-#![alt text](https://github.com/jakhon37/student_management/img/student.png?raw=true)
-#
