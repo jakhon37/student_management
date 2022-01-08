@@ -1,0 +1,5 @@
+   ID     Name  Gender  Age EnrolmentData  MidtermScore  FinalScore   GPA
+0   1     emma       1   21    2020/09/01            95          98  96.8
+1   2     john       0   22    2020/03/01            95          92  93.2
+2   3  bektosh       0   25    2017/09/01            97          98  97.6
+3   4     anna       1   18    2020/09/01            95          92  93.2
