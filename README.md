@@ -2,7 +2,7 @@
 student management system
 
 
-This project cretes student all information database 
+This project cretes a database which sotrs all information of students  
 
 there are main 7 operations you can choose and take an action. 
                        ' 1 -> Add new student
